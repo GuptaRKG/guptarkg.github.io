@@ -78,11 +78,11 @@ My work comprises 22 peer-reviewed articles (900+ citations; h-index 16, i10-ind
 </summary>
 
 <div class="rkg-sdg-row">
-  <a href="https://sdgs.un.org/goals/goal6" target="_blank" rel="noopener"><img src="/assets/img/sdg/sdg_wide_6.jpg" alt="SDG 6: Clean Water and Sanitation"></a>
-  <a href="https://sdgs.un.org/goals/goal7" target="_blank" rel="noopener"><img src="/assets/img/sdg/sdg_wide_7.jpg" alt="SDG 7: Affordable and Clean Energy"></a>
-  <a href="https://sdgs.un.org/goals/goal11" target="_blank" rel="noopener"><img src="/assets/img/sdg/sdg_wide_11.jpg" alt="SDG 11: Sustainable Cities and Communities"></a>
-  <a href="https://sdgs.un.org/goals/goal12" target="_blank" rel="noopener"><img src="/assets/img/sdg/sdg_wide_12.jpg" alt="SDG 12: Responsible Consumption and Production"></a>
-  <a href="https://sdgs.un.org/goals/goal13" target="_blank" rel="noopener"><img src="/assets/img/sdg/sdg_wide_13.jpg" alt="SDG 13: Climate Action"></a>
+  <div class="rkg-sdg-item"><a href="https://sdgs.un.org/goals/goal6" target="_blank" rel="noopener"><img src="/assets/img/sdg/sdg_wide_6.jpg" alt="SDG 6: Clean Water and Sanitation"></a><p class="rkg-sdg-why">Engineered alginate-based materials for whole-cell remediation, and laccase-based nanobiocatalysts that degrade bisphenol A and decolorize dyes, target pollutants in contaminated water.</p></div>
+  <div class="rkg-sdg-item"><a href="https://sdgs.un.org/goals/goal7" target="_blank" rel="noopener"><img src="/assets/img/sdg/sdg_wide_7.jpg" alt="SDG 7: Affordable and Clean Energy"></a><p class="rkg-sdg-why">Immobilized biocatalysts convert biogas to methanol and lignocellulosic biomass to hydrogen and ethanol, which supports renewable fuel production.</p></div>
+  <div class="rkg-sdg-item"><a href="https://sdgs.un.org/goals/goal11" target="_blank" rel="noopener"><img src="/assets/img/sdg/sdg_wide_11.jpg" alt="SDG 11: Sustainable Cities and Communities"></a><p class="rkg-sdg-why">Organic waste streams, including potato peels, rice straw and biodiesel-industry effluent, were converted into fuels and value-added products, which is relevant to municipal and industrial waste management.</p></div>
+  <div class="rkg-sdg-item"><a href="https://sdgs.un.org/goals/goal12" target="_blank" rel="noopener"><img src="/assets/img/sdg/sdg_wide_12.jpg" alt="SDG 12: Responsible Consumption and Production"></a><p class="rkg-sdg-why">Biomass residues and process by-products such as glycerol serve as feedstocks, and reusable immobilized enzymes and cells reduce the consumption of biocatalysts.</p></div>
+  <div class="rkg-sdg-item"><a href="https://sdgs.un.org/goals/goal13" target="_blank" rel="noopener"><img src="/assets/img/sdg/sdg_wide_13.jpg" alt="SDG 13: Climate Action"></a><p class="rkg-sdg-why">Methanotrophs immobilized in engineered matrices convert methane and other greenhouse gases to methanol, which offers a biological route to reducing greenhouse gas emissions.</p></div>
 </div>
 </details>
 
@@ -100,10 +100,11 @@ My work comprises 22 peer-reviewed articles (900+ citations; h-index 16, i10-ind
     gap: 1rem;
     margin: 0.75rem 0 1.5rem 0;
   }
+  .rkg-sdg-item { width: calc(50% - 0.5rem); max-width: 440px; }
+  .rkg-sdg-why { font-size: 0.85rem; line-height: 1.4; margin: 0.5rem 0 0 0; opacity: 0.9; }
   .rkg-sdg-row a {
     display: block;
-    width: calc(50% - 0.5rem);
-    max-width: 440px;
+    width: 100%;
     line-height: 0;
     border-radius: 6px;
     overflow: hidden;
@@ -113,7 +114,7 @@ My work comprises 22 peer-reviewed articles (900+ citations; h-index 16, i10-ind
   .rkg-sdg-row a:hover { transform: translateY(-3px); }
   .rkg-sdg-row img { display: block; width: 100%; height: auto; }
   @media (max-width: 500px) {
-    .rkg-sdg-row a { width: 100%; max-width: none; }
+    .rkg-sdg-item { width: 100%; max-width: none; }
   }
 </style>
 

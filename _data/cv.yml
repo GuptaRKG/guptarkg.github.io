@@ -1,0 +1,134 @@
+cv:
+  name: Rahul K. Gupta, Ph.D.
+  label: Research Professor
+  email: guptarahul9m@gmail.com
+  location: Yongin, Republic of Korea
+  image: ""
+  summary: Research Professor in Chemical Engineering at Kyung Hee University; enzyme and whole-cell immobilization, multi-enzyme cascade biocatalysis, and methanotrophic C1 bioconversion. 22 publications (900+ citations; h-index 16) and five Korean patents.
+
+  social_networks:
+    - network: ORCID
+      username: 0009-0005-6077-3122
+    - network: Google Scholar
+      username: U6SrZPEAAAAJ
+    - network: LinkedIn
+      username: rahul-k-gupta-3m
+
+  sections:
+    Experience:
+      - company: Kyung Hee University, Department of Chemical Engineering
+        position: Research Professor
+        location: Yongin, Republic of Korea
+        start_date: 2026-05
+        end_date: present
+        highlights:
+          - Process development for a synthetic-biology platform converting greenhouse gases into plant-growth-promoting biomaterials (with Prof. Eun Yeol Lee)
+          - Technical evaluation of laboratory automation platforms for enzyme screening and strain engineering
+          - Supervision of one Ph.D., three M.Sc., and two B.Sc. students
+
+      - company: Kyung Hee University, Department of Chemical Engineering
+        position: Postdoctoral Researcher
+        location: Yongin, Republic of Korea
+        start_date: 2025-05
+        end_date: 2026-04
+        highlights:
+          - Bioconversion of low-grade CO₂/CH₄ streams, including bioreactor operation up to 10 L
+
+      - company: Konkuk University, Department of Chemical Engineering
+        position: Ph.D. Researcher
+        location: Seoul, Republic of Korea
+        start_date: 2018-03
+        end_date: 2025-02
+        highlights:
+          - Engineering and immobilization of carboxylases, oxidases, and dehydrogenases for C1 gas bioconversion and biomass-to-ethanol processes
+          - "Teaching: Enzyme Engineering and Biotechnology; Biocatalysis and Thermodynamics"
+
+      - company: All India Institute of Medical Sciences (AIIMS)
+        position: Project Fellow
+        location: New Delhi, India
+        start_date: 2017-09
+        end_date: 2017-12
+        highlights:
+          - "Supervisor: Dr. Ashok Sharma, Additional Professor, Department of Biochemistry"
+          - Epigenetic alterations, including DNA and histone modifications and chromatin remodelling
+
+      - company: CSIR-Institute of Genomics and Integrative Biology (CSIR-IGIB)
+        position: Project Assistant
+        location: New Delhi, India
+        start_date: 2016-08
+        end_date: 2017-08
+        highlights:
+          - Crude glycerol as a bioprocess substrate for hydrogen, propanediols, lipids, and biopolymers
+
+    Education:
+      - institution: Konkuk University
+        location: Seoul, Republic of Korea
+        area: Chemical Engineering
+        studyType: Ph.D.
+        start_date: 2018-03
+        end_date: 2025-02
+        highlights:
+          - "Thesis: Engineering and Immobilization of Enzymes to Improve their Activity and Stability"
+          - "Supervisor: Prof. Jung-Kul Lee"
+          - Brain Korea 21 (BK21) fellowship
+
+      - institution: Jamia Hamdard
+        location: New Delhi, India
+        area: Biotechnology
+        studyType: M.Sc.
+        start_date: 2014-08
+        end_date: 2016-07
+        highlights:
+          - "Thesis: role of ACE, TNF-α, and CTLA4 in rheumatic heart disease"
+
+      - institution: Chaudhary Charan Singh University
+        location: Meerut, India
+        area: Biotechnology
+        studyType: B.Sc.
+        start_date: 2011-08
+        end_date: 2014-06
+        highlights:
+          - Summer trainee, Quality Assurance and Production, Parag Dairy Plant
+
+    Skills:
+      - name: Bioprocess and analytical
+        icon: fa-solid fa-flask
+        keywords: "Enzyme production, purification, and kinetics; enzyme and whole-cell immobilization; fermentation and bioreactor operation (up to 10 L); GC, HPLC, UV/Vis, FTIR, PXRD"
+      - name: Molecular biology
+        icon: fa-solid fa-dna
+        keywords: "Cloning, PCR, site-directed mutagenesis, transformation, SDS-PAGE and native PAGE, ELISA, BLAST"
+      - name: Materials
+        icon: fa-solid fa-cube
+        keywords: "Hybrid nanoflowers, magnetic MOFs and nanoparticles, alginate and biopolymer matrices"
+
+    Awards:
+      - title: Seal of Excellence, Horizon Europe
+        date: 2026-02
+        awarder: European Commission
+      - title: AMI–Prof. J. V. Bhat Award for the best paper in Indian Journal of Microbiology
+        date: 2021
+        awarder: Association of Microbiologists of India
+
+    Funded Projects (participating investigator):
+      - bullet: "Synthetic-biology-based plant-growth-promoting biomaterial production for GHG reduction, National Research Foundation of Korea (2026–2030)"
+      - bullet: "Low-grade CO₂/CH₄ bioconversion technology development, National Research Foundation of Korea (2025–2028)"
+      - bullet: "Biological methane mitigation using methanotrophs, National Institute of Biological Resources (2025–2026)"
+
+    Patents:
+      - bullet: "Acetyl-coenzyme A carboxylase variants with enhanced activity (KIPO, filed)"
+      - bullet: Four further Korean patents (KIPO) covering cofactor-regenerating metal–organic frameworks and methanotroph immobilization for methanol production
+
+    Service:
+      - bullet: "Peer review: 162 reviews for 43 journals and grant bodies (ORCID)"
+      - bullet: "Life member, Association of Microbiologists of India (since 2025)"
+      - bullet: "Presentations: six invited departmental seminars; two conference contributions"
+
+    Languages:
+      - name: Hindi
+        summary: Native
+      - name: English
+        summary: Fluent
+      - name: Korean
+        summary: Beginner
+
+    # Publications are listed on the Publications page (generated from _bibliography/papers.bib).

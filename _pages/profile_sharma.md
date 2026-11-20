@@ -1,0 +1,1 @@
+Research Professor, Department of Chemical Engineering, Kyung Hee University. Co-author on systems-guided glycerol valorization and NADPH-driven auxin production in *Pseudomonas* sp. KHU-1 (Jabeen et al., 2026).
